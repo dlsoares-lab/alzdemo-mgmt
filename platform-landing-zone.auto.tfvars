@@ -190,7 +190,7 @@ management_group_settings = {
             enableAscForKeyVault                        = "Disabled"
             enableAscForSqlOnVm                         = "DoNotEnforce"
             enableAscForArm                             = "Disabled"
-            enableAscForOssDb                           = "DoNotEnforce"
+            enableAscForOssDb                           = "Disabled"
             enableAscForCosmosDbs                       = "Disabled"
             enableAscForCspm                            = "Disabled"
           }
