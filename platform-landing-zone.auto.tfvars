@@ -192,7 +192,7 @@ management_group_settings = {
             enableAscForArm                             = "Disabled"
             enableAscForOssDb                           = "DoNotEnforce"
             enableAscForCosmosDbs                       = "Disabled"
-            enableAscForCspm                            = "DoNotEnforce"
+            enableAscForCspm                            = "Disabled"
           }
         }
       }
