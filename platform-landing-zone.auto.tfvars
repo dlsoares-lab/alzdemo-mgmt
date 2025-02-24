@@ -191,7 +191,7 @@ management_group_settings = {
             enableAscForSqlOnVm                         = "DoNotEnforce"
             enableAscForArm                             = "Disabled"
             enableAscForOssDb                           = "DoNotEnforce"
-            enableAscForCosmosDbs                       = "DoNotEnforce"
+            enableAscForCosmosDbs                       = "Disabled"
             enableAscForCspm                            = "DoNotEnforce"
           }
         }
